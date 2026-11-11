@@ -13,5 +13,5 @@ A dead simple theme for the digital minimalist. (Inspired by Felix theme)
 To install this theme, simply use the `omarchy-theme-install` command:
 
 ```sh
-omarchy-theme-install https://github.com/ankur311sudo/black_arch.git
+omarchy-theme-install https://github.com/sam25100/blackarch.git
 ```
